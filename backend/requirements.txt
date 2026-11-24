@@ -19,7 +19,7 @@ pydantic-settings>=2.3.0
 # linkml==1.7.0  # Use from parent directory
 
 # Graphiti (Neo4j Knowledge Graph)
-graphiti-core==0.3.0
+graphiti-core==0.28.2
 
 # Neo4j (version compatible with graphiti-core 0.3.0)
 neo4j>=5.23.0
