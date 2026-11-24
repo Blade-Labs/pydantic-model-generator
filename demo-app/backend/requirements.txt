@@ -39,6 +39,6 @@ pytest-asyncio==0.23.3
 httpx==0.26.0             # For testing FastAPI
 
 # Development
-black==24.1.1             # Code formatting
+black==26.10.1             # Code formatting
 ruff==0.1.14              # Linting
 mypy==1.8.0               # Type checking
